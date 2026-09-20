@@ -1,0 +1,2 @@
+# StarRailAutomation
+Star Rail copilot
