@@ -1,0 +1,2 @@
+[console_scripts]
+star-rail-automation = star_rail_automation.__main__:main
